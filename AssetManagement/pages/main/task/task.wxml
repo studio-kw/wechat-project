@@ -1,0 +1,4 @@
+<view class="container">
+    <van-button type="primary" bindtap="getUserInfo">点击获取用户名</van-button>
+    <text class="title">{{title}}</text>
+</view>

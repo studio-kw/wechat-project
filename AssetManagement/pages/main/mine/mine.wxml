@@ -1,0 +1,37 @@
+<view>
+  <view class="top-content">
+    <cover-image class="user-img" src="/pages/images/user.png"></cover-image>
+    <view class="horizontal-view">
+      <text class="user-name">XXX</text>
+      <cover-image class="icon" src="/pages/images/men.png"></cover-image>
+    </view>
+    <text class="user-dept">开发部</text>
+  </view>
+  <view>
+    <view class="content-view" bindtap="btn_1">
+      <cover-image class="icon" src="/pages/images/mine_1.png"></cover-image>
+      <text class="content-text">个人信息</text>
+      <cover-image class="arrow" src="/pages/images/arrow_right.png"></cover-image>
+    </view>
+    <view class="content-view">
+      <cover-image class="icon" src="/pages/images/mine_2.png"></cover-image>
+      <text class="content-text">系统设置</text>
+      <cover-image class="arrow" src="/pages/images/arrow_right.png"></cover-image>
+    </view>
+    <view class="content-view">
+      <cover-image class="icon" src="/pages/images/mine_3.png"></cover-image>
+      <text class="content-text">相关协议</text>
+      <cover-image class="arrow" src="/pages/images/arrow_right.png"></cover-image>
+    </view>
+    <view class="content-view">
+      <cover-image class="icon" src="/pages/images/mine_4.png"></cover-image>
+      <text class="content-text">意见反馈</text>
+      <cover-image class="arrow" src="/pages/images/arrow_right.png"></cover-image>
+    </view>
+    <view class="content-view">
+      <cover-image class="icon" src="/pages/images/mine_5.png"></cover-image>
+      <text class="content-text">关于我们</text>
+      <cover-image class="arrow" src="/pages/images/arrow_right.png"></cover-image>
+    </view>
+  </view>
+</view>
